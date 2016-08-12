@@ -1,0 +1,13 @@
+cloud:
+    aws:
+      region:
+        static: eu-west-1
+
+sqs:
+    url: ${SQS_URL}
+
+logging:
+    level:
+        io.github.mrandi: DEBUG
+        #com.amazonaws.request: DEBUG
+        ROOT: INFO

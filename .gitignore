@@ -1,0 +1,12 @@
+.project
+.classpath
+.settings
+target
+*.iml
+.idea
+ERRORS*
+*.log
+**/src/generated
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
